@@ -5,13 +5,9 @@ Full-Stack Developer at Digital Business Technology Pvt Ltd | React & Next.js Sp
 </h3>
 
 <h3 align="center">
-I am a results-driven Full-Stack Developer with hands-on industry experience in building scalable web applications, backend APIs, and database-driven systems. I specialize in JavaScript, TypeScript, ReactJS, Next.js, Node.js, and Prisma ORM. 
+I am a Full-Stack Developer with industry experience in building scalable web applications and REST APIs using JavaScript, TypeScript, React, Next.js, Node.js, and Prisma ORM. I specialize in integrating front-end and back-end systems, designing efficient databases, and deploying production-ready solutions.
 
-I have strong experience integrating front-end and back-end systems, designing efficient database schemas, optimizing performance, and deploying production-ready applications. 
-
-Alongside development, I have professional experience in WordPress customization, hosting & deployment, Linux system administration, networking troubleshooting, and API testing using Postman.
-
-I combine technical expertise with creative skills such as social media content design, Canva, AI-based tools, and short-form video editing — enabling me to deliver both technical and branding solutions.
+In addition to development, I have experience in WordPress customization, Linux administration, API testing with Postman, and technical troubleshooting. I also leverage creative tools like Canva and AI platforms to deliver complete digital and branding solutions.
 </h3>
 
 <p align="left">
